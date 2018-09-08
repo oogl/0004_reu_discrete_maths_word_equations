@@ -16,5 +16,5 @@ Will be published soon.
 
 ## Authors
 - Code . . . . . . . . . . . . . . . . . . . . **Alex U** ([oogl](https://github.com/oogl/))
-- Publication. . . . . . . . . . . . . . . . . **Alex U** ([oogl](https://github.com/oogl/))
-- Publication. . . . . . . . . . . . . . . . . **extseme** ([extseme](https://github.com/extseme/))
+- Publication . . . . . . . . . . . . . . . **Alex U** ([oogl](https://github.com/oogl/))
+- Publication . . . . . . . . . . . . . . . **extseme** ([extseme](https://github.com/extseme/))
