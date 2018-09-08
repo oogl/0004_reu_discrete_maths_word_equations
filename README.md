@@ -14,6 +14,13 @@ Will be published soon.
 > Now you can read an article on the [Wikipedia FR](https://fr.wikipedia.org/wiki/%C3%89quation_entre_mots)
 
 
+## How to use
+- Run the `algorithm.py` code.
+- Input the equation, e.g. `abcx = xabc`.
+Note: the default unknown is `x`; left and right parts of the equation should be divided by ` = `.
+- If there is a solution, it will be printed
+- You can see the steps of algorithm work in `log.log`
+
 ## Authors
 - Code . . . . . . . . . . . . . . . . . . . . **Alex U** ([oogl](https://github.com/oogl/))
 - Publication . . . . . . . . . . . . . . . **Alex U** ([oogl](https://github.com/oogl/))
