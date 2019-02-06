@@ -5,7 +5,7 @@ This Python3 code is a part of "One-variable word equations: algorithm of soluti
 
 **Keywords:** `word equations`, `discrete mathematics`, `theoretical computer science`, `python3`.
 
-**Publication based on:** Yu. I. Khmelevskii, Maksimenko M.N. works
+**Publication based on:** Yu. I. Khmelevskii, M.N. Maksimenko works
 
 
 ## Theory
