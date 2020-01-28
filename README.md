@@ -9,8 +9,8 @@ This Python3 code is a part of "One-variable word equations: algorithm of soluti
 
 
 ## Theory
-Will be published someday.
-> You can read an article on the [Wikipedia FR](https://fr.wikipedia.org/wiki/%C3%89quation_entre_mots)
+- [Text of the publication](https://github.com/oogl/0004_reu_discrete_maths_word_equations/blob/master/publication.pdf) [[source](https://elibrary.ru/item.asp?id=36398135)]
+- [Wikipedia FR](https://fr.wikipedia.org/wiki/%C3%89quation_entre_mots)
 
 
 ## How to use
@@ -22,11 +22,6 @@ Note: the default unknown is `x`; left and right parts of the equation should be
 
 
 ## Authors
-- Code . . . . . . . . . . . . . . . . . . . . **Alex U** ([oogl](https://github.com/oogl/))
-- Publication . . . . . . . . . . . . . . . **Alex U** ([oogl](https://github.com/oogl/))
-- Publication . . . . . . . . . . . . . . . **extseme** ([extseme](https://github.com/extseme/))
-
-
-## Links
-- [Elibrary.RU: proof of publication](https://elibrary.ru/item.asp?id=36398135)
-- [Wikipedia FR: some theoretical info](https://fr.wikipedia.org/wiki/%C3%89quation_entre_mots)
+- Code . . . . . . . . . . . . . . . . . . . . **Alexey Uglanov** ([oogl](https://github.com/oogl/))
+- Publication . . . . . . . . . . . . . . . **Alexey Uglanov** ([oogl](https://github.com/oogl/))
+- Publication . . . . . . . . . . . . . . . **Daniil Bidin** ([chickchirik](https://github.com/chickchirik/))
